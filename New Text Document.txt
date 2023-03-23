@@ -3,3 +3,4 @@ d=c.replace("a","v")
 print(d)
 e=d.replace("n","e")
 print(e)
+ragavi
