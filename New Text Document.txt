@@ -1,6 +1,4 @@
 x="Raagavi"
-c=x.replace("a","f")
-print(c)
 d=c.replace("a","v")
 print(d)
 e=d.replace("n","e")
